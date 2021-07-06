@@ -103,11 +103,11 @@ strong{
     background: linear-gradient(to right, #fba24f 0%, #ff1e1e 100%);
     border-radius: 40px;
 }
-.third-content{
+.third-part{
     width: auto;
     height: 150px;
 }
-.third-content h1{
+.third-part h1{
     font-size: 50px;
     color: #575757;
     font-weight: 600;
@@ -115,7 +115,7 @@ strong{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.third-content p{
+.third-part p{
     font-size: 16px;
     color: #575757;
     margin: 0px 0px 30px 0px;
