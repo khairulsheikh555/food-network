@@ -6,7 +6,7 @@ header{
     width: auto;
     height: 100px;
     display: flex;
-    background-color: #0B0D17;
+    background-color: #06070a;
 }
 .header-logo{
     width: 40%;
@@ -16,15 +16,15 @@ header{
     font-size: 36px;
     padding-left: 20%;
 }
-.header-menu{
+.menu{
     width: 60%;
     color: white;
 }
-.header-menu ul li{
+.menu ul li{
     float: left;
     list-style: none;
-    font-size: 18px;
-    padding-left: 80px;
+    font-size: 10px;
+    padding-left: 50px;
     padding-top: 23px;
     
 }
