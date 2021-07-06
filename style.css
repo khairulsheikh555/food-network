@@ -64,9 +64,9 @@ strong{
 	width: 600px;
 	margin: 50px 80px 50px 0px;
 }
-.content-mid{
+.part-mid{
     display: flex;
-    background-image: url(img/7.png);
+    background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
